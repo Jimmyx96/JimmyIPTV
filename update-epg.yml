@@ -1,0 +1,113 @@
+name: Update SmartOne EPG
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download SK and CZ EPG
+        run: |
+          curl -L --fail --retry 3 \
+            "https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz" \
+            -o sk.xml.gz
+
+          curl -L --fail --retry 3 \
+            "https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz" \
+            -o cz.xml.gz
+
+      - name: Build small SmartOne EPG
+        run: |
+          python3 <<'PY'
+          import gzip
+          import re
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timedelta, timezone
+
+          M3U = "Jimmy_Smarters.m3u"
+          OUTPUT = "epg_smarters.xml"
+
+          # Read all tvg-id values from the SmartOne playlist.
+          m3u = open(M3U, "r", encoding="utf-8", errors="ignore").read()
+          wanted = set(re.findall(r'tvg-id="([^"]+)"', m3u))
+
+          if not wanted:
+              raise SystemExit("No tvg-id values found in Jimmy_Smarters.m3u")
+
+          now = datetime.now(timezone.utc)
+          until = now + timedelta(days=7)
+
+          def parse_xmltv_time(value):
+              # XMLTV examples: 20260821120000 +0200
+              s = (value or "").strip()
+              m = re.match(r"^(\d{14})(?:\s*([+-]\d{4}))?$", s)
+              if not m:
+                  return None
+              dt = datetime.strptime(m.group(1), "%Y%m%d%H%M%S")
+              if m.group(2):
+                  sign = 1 if m.group(2)[0] == "+" else -1
+                  hh = int(m.group(2)[1:3])
+                  mm = int(m.group(2)[3:5])
+                  offset = timezone(sign * timedelta(hours=hh, minutes=mm))
+                  return dt.replace(tzinfo=offset).astimezone(timezone.utc)
+              return dt.replace(tzinfo=timezone.utc)
+
+          out_root = ET.Element("tv")
+
+          # Preserve only matching channels and programmes from SK + CZ.
+          seen_channels = set()
+          programme_count = 0
+
+          for filename in ("sk.xml.gz", "cz.xml.gz"):
+              with gzip.open(filename, "rb") as f:
+                  root = ET.parse(f).getroot()
+
+              for ch in root.findall("channel"):
+                  cid = ch.get("id")
+                  if cid in wanted and cid not in seen_channels:
+                      out_root.append(ch)
+                      seen_channels.add(cid)
+
+              for p in root.findall("programme"):
+                  if p.get("channel") not in wanted:
+                      continue
+
+                  start = parse_xmltv_time(p.get("start"))
+                  stop = parse_xmltv_time(p.get("stop"))
+
+                  if start is None or stop is None:
+                      continue
+
+                  if stop >= now and start <= until:
+                      out_root.append(p)
+                      programme_count += 1
+
+          ET.ElementTree(out_root).write(
+              OUTPUT,
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          print("EPG channels:", len(seen_channels))
+          print("EPG programmes:", programme_count)
+          print("EPG period:", now.isoformat(), "to", until.isoformat())
+          print("Output:", OUTPUT)
+          PY
+
+      - name: Commit updated EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg_smarters.xml
+          git diff --cached --quiet || git commit -m "Update SmartOne EPG"
+          git push
