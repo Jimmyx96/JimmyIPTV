@@ -1,0 +1,393 @@
+#EXTM3U url-tvg="https://jimmyx96.github.io/JimmyIPTV/epg_smarters.xml" x-tvg-url="https://jimmyx96.github.io/JimmyIPTV/epg_smarters.xml" tvg-url="https://jimmyx96.github.io/JimmyIPTV/epg_smarters.xml"
+#EXTINF:-1 tvg-logo="logos/hbo.png" tvg-id="HBO.HD.sk" tvg-name="HBO FHD" group-title="(no name)" dvb-reference="4097:0:1:FF1B:9C63:EC:0:0:0:0", HBO FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
+#EXTINF:-1 tvg-logo="logos/hbo.png" tvg-id="HBO2.HD.sk" tvg-name="HBO 2" group-title="(no name)" dvb-reference="4097:0:1:70D8:E274:EC:0:0:0:0", HBO 2
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WzCi6LLAMMc6Qz7aH7kJmz/ts
+#EXTINF:-1 tvg-logo="logos/hbo.png" tvg-id="HBO3.HD.sk" tvg-name="HBO 3" group-title="(no name)" dvb-reference="4097:0:1:F28A:BBB4:EC:0:0:0:0", HBO 3
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XT1LJtSu0fgMiKX_oK4gKi/ts
+#EXTINF:-1 tvg-logo="logos/CANAL+ ACTION FHD.png" tvg-id="CANAL+.Action.HD.sk" tvg-name="CANAL+ ACTION FHD" group-title="(no name)" dvb-reference="4097:0:1:1426:FE6A:EC:0:0:0:0", CANAL+ ACTION FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X8gV2sf-JLhQsv5gNG9MH-/ts
+#EXTINF:-1 tvg-logo="logos/jednotka.png" tvg-id="Jednotka.HD.sk" tvg-name="Jednotka FHD" group-title="(no name)" dvb-reference="4097:0:1:3DD2:D9A1:EC:0:0:0:0", Jednotka FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WboODsi7P5OXiUIZn6cmLW/ts
+#EXTINF:-1 tvg-logo="logos/dvojka.png" tvg-id="Dvojka.HD.sk" tvg-name="Dvojka FHD" group-title="(no name)" dvb-reference="4097:0:1:D0B8:1BCA:EC:0:0:0:0", Dvojka FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WHq2ktN9guJ0lfWFVWnqYs/ts
+#EXTINF:-1 tvg-logo="logos/JOJ.png" tvg-id="JOJ.HD.sk" tvg-name="Joj FHD" group-title="(no name)" dvb-reference="4097:0:1:F355:8BDA:EC:0:0:0:0", Joj FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VRzcjd3GMTuBSSN72W1Ogo/ts
+#EXTINF:-1 tvg-logo="logos/markiza.png" tvg-id="Markíza.HD.sk" tvg-name="Markiza FHD" group-title="(no name)" dvb-reference="4097:0:1:9EE6:4F2A:EC:0:0:0:0", Markiza FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UuLMZrckhXJj9IiQIs3LB-/ts
+#EXTINF:-1 tvg-logo="logos/JOJ Plus FHD.png" tvg-id="Plus.HD.sk" tvg-name="JOJ Plus FHD" group-title="(no name)" dvb-reference="4097:0:1:8088:3EDB:EC:0:0:0:0", JOJ Plus FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UDQPEpVtMGgmak2Fi_BBNG/ts
+#EXTINF:-1 tvg-logo="logos/dajto.png" tvg-id="DAJTO.HD.sk" tvg-name="Dajto FHD" group-title="(no name)" dvb-reference="4097:0:1:8E02:3193:EC:0:0:0:0", Dajto FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Ufyc7XiuL2rbxQzjO6cMX8/ts
+#EXTINF:-1 tvg-logo="logos/JOJ.png" tvg-id="Wau.HD.sk" tvg-name="JOJ KRIMI FHD" group-title="(no name)" dvb-reference="4097:0:1:EA67:D0B5:EC:0:0:0:0", JOJ KRIMI FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XOAowHNWWHDZmRmgarJbh8/ts
+#EXTINF:-1 tvg-logo="logos/doma.png" tvg-id="Doma.HD.sk" tvg-name="DOMA FHD" group-title="(no name)" dvb-reference="4097:0:1:663B:C67E:EC:0:0:0:0", DOMA FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X8TPTFvn6DjF9XdL8IMoiR/ts
+#EXTINF:-1 tvg-logo="logos/cinemax.png" tvg-id="Cinemax.HD.sk" tvg-name="Cinemax 1" group-title="(no name)" dvb-reference="4097:0:1:BF34:3072:EC:0:0:0:0", Cinemax 1
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xmfj3pX3Yf9e7rZ99uPZa0/ts
+#EXTINF:-1 tvg-logo="logos/cinemax.png" tvg-id="Cinemax.2.HD.sk" tvg-name="Cinemax 2" group-title="(no name)" dvb-reference="4097:0:1:F540:1DA9:EC:0:0:0:0", Cinemax 2
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VsbEPqJ_mvkig1L_s-Ry87/ts
+#EXTINF:-1 tvg-id="CS.Film.cz" tvg-name="CS Film" group-title="(no name)" dvb-reference="4097:0:1:9EC5:AC18:EC:0:0:0:0", CS Film
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xd12NUSqTbB8sLSMh7WW_z/ts
+#EXTINF:-1 tvg-logo="logos/JOJ.png" tvg-id="JOJ.Cinema.HD.sk" tvg-name="JoJ Cinema FHD" group-title="(no name)" dvb-reference="4097:0:1:E015:8C45:EC:0:0:0:0", JoJ Cinema FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WA4orVTPyCnU92zdl4HxvO/ts
+#EXTINF:-1 tvg-logo="logos/nova.png" tvg-id="Nova.Cinema.cz" tvg-name="Nova Cinema FHD" group-title="(no name)" dvb-reference="4097:0:1:62E:F562:EC:0:0:0:0", Nova Cinema FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W7lVKaag2_ZTcbOxgizrl2/ts
+#EXTINF:-1 tvg-logo="logos/amc.png" tvg-id="AMC.HD.sk" tvg-name="AMC" group-title="(no name)" dvb-reference="4097:0:1:DBF:D807:EC:0:0:0:0", AMC
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XUVWHHriWHt-CT6QUENpwi/ts
+#EXTINF:-1 tvg-id="FILM+.HD.sk" tvg-name="Film+ HD" group-title="(no name)" dvb-reference="4097:0:1:79A:7F04:EC:0:0:0:0", Film+ HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UTMeIrzpA7ohKSwbCbNkMv/ts
+#EXTINF:-1 tvg-logo="logos/filmbox.png" tvg-id="Filmbox.HD.sk" tvg-name="FILMBOX+ One" group-title="(no name)" dvb-reference="4097:0:1:B3D:6342:EC:0:0:0:0", FILMBOX+ One
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WbIgMiQPJPJ8BN9JV65p8_/ts
+#EXTINF:-1 tvg-logo="logos/filmbox.png" tvg-id="Filmbox.Premium.HD.sk" tvg-name="FILMBOX+ HIts FHD" group-title="(no name)" dvb-reference="4097:0:1:6E90:2118:EC:0:0:0:0", FILMBOX+ HIts FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Vu1dQuv71o0LnP6NVvplMw/ts
+#EXTINF:-1 tvg-logo="logos/filmbox.png" tvg-id="Filmbox.Stars.HD.sk" tvg-name="FILMBOX+ Love & Crime" group-title="(no name)" dvb-reference="4097:0:1:C3AD:A855:EC:0:0:0:0", FILMBOX+ Love & Crime
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XnAAGz_lqtKph6shA5H-FD/ts
+#EXTINF:-1 tvg-logo="logos/filmbox.png" tvg-id="Filmbox.Extra.HD.sk" tvg-name="FILMBOX+ EMOTION HD" group-title="(no name)" dvb-reference="4097:0:1:6C30:1DDB:EC:0:0:0:0", FILMBOX+ EMOTION HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UzVfucqkcLY0cf-U1ArKsD/ts
+#EXTINF:-1 tvg-logo="logos/filmbox.png" tvg-id="Filmbox.Family.sk" tvg-name="FILMBOX+ Comedy" group-title="(no name)" dvb-reference="4097:0:1:EA27:6976:EC:0:0:0:0", FILMBOX+ Comedy
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Ul6GGdo0Vn24NXlmLDjtW3/ts
+#EXTINF:-1 tvg-logo="logos/filmbox.png" tvg-id="Filmbox+.festival.cz" tvg-name="FILMBOX+ Festival HD" group-title="(no name)" dvb-reference="4097:0:1:1DD6:EFDE:EC:0:0:0:0", FILMBOX+ Festival HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UYsGc9UethItVSmCsp1Vut/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.Cool.cz" tvg-name="Prima COOL FHD" group-title="(no name)" dvb-reference="4097:0:1:1BA5:B17C:EC:0:0:0:0", Prima COOL FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VEWr46SOiYzzsOlV5oWVzR/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.MAX.cz" tvg-name="Prima MAX FHD" group-title="(no name)" dvb-reference="4097:0:1:C6E6:3977:EC:0:0:0:0", Prima MAX FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VCtLHOVoxhJ1sr5wvWhK1J/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.cz" tvg-name="Prima FHD" group-title="(no name)" dvb-reference="4097:0:1:A65B:C641:EC:0:0:0:0", Prima FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UzEzh-sBn3h-P5XfaHtGh1/ts
+#EXTINF:-1 tvg-logo="logos/nova.png" tvg-id="Nova.cz" tvg-name="Nova FHD" group-title="(no name)" dvb-reference="4097:0:1:7C0D:24E2:EC:0:0:0:0", Nova FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UBXOfMQ8agAmU-Zbx4a4yi/ts
+#EXTINF:-1 tvg-id="ČT1.HD.sk" tvg-name="ČT1 FHD" group-title="(no name)" dvb-reference="4097:0:1:8F14:F7BA:EC:0:0:0:0", ČT1 FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XKNb4QSs8dpX7DgqoXc2cu/ts
+#EXTINF:-1 tvg-id="ČT2.HD.sk" tvg-name="ČT2 FHD" group-title="(no name)" dvb-reference="4097:0:1:7255:91FC:EC:0:0:0:0", ČT2 FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Vk45N7O5JUqMkMydaTR5b0/ts
+#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-name="CS Mystery" group-title="(no name)" dvb-reference="4097:0:1:B121:8EE6:EC:0:0:0:0", CS Mystery
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VJF6JFK080D8-yYlS7BO9K/ts
+#EXTINF:-1 tvg-id="CS.Horror.cz" tvg-name="CS Horror" group-title="(no name)" dvb-reference="4097:0:1:A5AA:B3BB:EC:0:0:0:0", CS Horror
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W4_BCV7PzE1LiILvZ3Zvmj/ts
+#EXTINF:-1 tvg-logo="logos/Kanal 1 Biely.png" tvg-id="Kanal.1.cz" tvg-name="Kanal 1" group-title="(no name)" dvb-reference="4097:0:1:1548:1769:EC:0:0:0:0", Kanal 1
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VobbDNCMdHKdwiqfjsPaN9/ts
+#EXTINF:-1 tvg-name="ČT :D HD / ČT art FHD" group-title="(no name)" dvb-reference="4097:0:1:2A7F:4D9:EC:0:0:0:0", ČT :D HD / ČT art FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W8f-GYi4hKLHjRYAq2Hygm/ts
+#EXTINF:-1 tvg-logo="logos/axn.png" tvg-id="AXN.cz" tvg-name="AXN" group-title="(no name)" dvb-reference="4097:0:1:6C66:D407:EC:0:0:0:0", AXN
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XP_ZR6hHETi_yKfpsslCib/ts
+#EXTINF:-1 tvg-logo="logos/axn.png" tvg-id="AXN.White.cz" tvg-name="AXN White" group-title="(no name)" dvb-reference="4097:0:1:E2D3:2DDC:EC:0:0:0:0", AXN White
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VR--M5ISqNXhgRjgCP0taX/ts
+#EXTINF:-1 tvg-logo="logos/axn.png" tvg-id="AXN.Black.cz" tvg-name="AXN Black" group-title="(no name)" dvb-reference="4097:0:1:B1E:6C96:EC:0:0:0:0", AXN Black
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XrFu1iCfzdPO93wJuR4fg7/ts
+#EXTINF:-1 tvg-logo="logos/JOJ.png" tvg-id="JOJ.Family.cz" tvg-name="JoJ Family FHD" group-title="(no name)" dvb-reference="4097:0:1:C11B:271E:EC:0:0:0:0", JoJ Family FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X_kaLnu9reQHz7cdaqQBry/ts
+#EXTINF:-1 tvg-logo="logos/markiza.png" tvg-id="Markíza.Klasik.HD.sk" tvg-name="Markiza Klasik HD" group-title="(no name)" dvb-reference="4097:0:1:4241:2A7:EC:0:0:0:0", Markiza Klasik HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W3YBHi2EmlRe6E1y5IkNAV/ts
+#EXTINF:-1 tvg-id="Markíza.International.cz" tvg-name="Markíza International" group-title="(no name)" dvb-reference="4097:0:1:553:94E2:EC:0:0:0:0", Markíza International
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UuZ4eQlrGGjKXBvxxYE9TM/ts
+#EXTINF:-1 tvg-logo="logos/markiza.png" tvg-id="Markíza.KRIMI.HD.sk" tvg-name="Markiza Krimi FHD" group-title="(no name)" dvb-reference="4097:0:1:13EA:3259:EC:0:0:0:0", Markiza Krimi FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Wxe32Y6NBLh1QS3KMvge1g/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.SK.HD.sk" tvg-name="Prima SK FHD" group-title="(no name)" dvb-reference="4097:0:1:220C:317B:EC:0:0:0:0", Prima SK FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WXtoYVWVc8-cyLF6kPF31o/ts
+#EXTINF:-1 tvg-logo="logos/Prima COOL SK.png" tvg-id="Prima.COOL.SK.HD.sk" tvg-name="Prima Cool SK" group-title="(no name)" dvb-reference="4097:0:1:A019:A21B:EC:0:0:0:0", Prima Cool SK
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WJnK6lo62Usgc3Fvt_0yZr/ts
+#EXTINF:-1 tvg-logo="logos/Prima love SK.png" tvg-id="Prima.LOVE.SK.HD.sk" tvg-name="Prima Love SK" group-title="(no name)" dvb-reference="4097:0:1:23C:B9B3:EC:0:0:0:0", Prima Love SK
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W2m4ZE0PsmhnESa84gVZCz/ts
+#EXTINF:-1 tvg-logo="logos/Prima Krimi SK.png" tvg-id="Prima.KRIMI.SK.cz" tvg-name="Prima KRIMI SK" group-title="(no name)" dvb-reference="4097:0:1:28F4:E79D:EC:0:0:0:0", Prima KRIMI SK
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WFpCOcJmmRXDNuOOvdsznh/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.Krimi.cz" tvg-name="Prima Krimi FHD" group-title="(no name)" dvb-reference="4097:0:1:724E:AF65:EC:0:0:0:0", Prima Krimi FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VXmS2JWzG3I0_YnMZDTJCv/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.Star.cz" tvg-name="Prima Star FHD" group-title="(no name)" dvb-reference="4097:0:1:A93:9F02:EC:0:0:0:0", Prima Star FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Vy78sjltkUDTn_CfDWpu_O/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.Show.cz" tvg-name="Prima Show FHD" group-title="(no name)" dvb-reference="4097:0:1:F53A:AB67:EC:0:0:0:0", Prima Show FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UIDQA7Tpa1Ldx9QKuWij0w/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.LOVE.cz" tvg-name="Prima Love FHD" group-title="(no name)" dvb-reference="4097:0:1:8527:BE66:EC:0:0:0:0", Prima Love FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WMxFJ-fLfRqiY0SEvKBom6/ts
+#EXTINF:-1 tvg-logo="logos/nova.png" tvg-id="Nova.International.cz" tvg-name="Nova International FHD" group-title="(no name)" dvb-reference="4097:0:1:9732:9841:EC:0:0:0:0", Nova International FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WbEmX004SHwdnP6kU1wPoZ/ts
+#EXTINF:-1 tvg-logo="logos/nova.png" tvg-id="Nova.Action.cz" tvg-name="Nova Action FHD" group-title="(no name)" dvb-reference="4097:0:1:72CA:BA21:EC:0:0:0:0", Nova Action FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UY2tuIQuVZBzunBIla8EsI/ts
+#EXTINF:-1 tvg-logo="logos/Nova Krimi FHD.png" tvg-id="Nova.Krimi.cz" tvg-name="Nova Krimi FHD" group-title="(no name)" dvb-reference="4097:0:1:2611:BABB:EC:0:0:0:0", Nova Krimi FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UXAoSBmLdXPrxXSrBRHNTH/ts
+#EXTINF:-1 tvg-logo="logos/nova.png" tvg-id="Nova.Fun.cz" tvg-name="Nova Fun  FHD" group-title="(no name)" dvb-reference="4097:0:1:DB2D:CDF1:EC:0:0:0:0", Nova Fun  FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Wvd9msHxZuH4jziSAj9GaO/ts
+#EXTINF:-1 tvg-logo="logos/nova.png" tvg-id="Nova.Lady.cz" tvg-name="Nova  Lady FHD" group-title="(no name)" dvb-reference="4097:0:1:B926:2E7B:EC:0:0:0:0", Nova  Lady FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XQx_iD3k39iySCxKePrSnJ/ts
+#EXTINF:-1 tvg-id="Barrandov.cz" tvg-name="TV Barrandov FHD" group-title="(no name)" dvb-reference="4097:0:1:4691:A8F9:EC:0:0:0:0", TV Barrandov FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VlglR_NiRsd3kHp3I9x-aU/ts
+#EXTINF:-1 tvg-id="Barrandov.Kino.cz" tvg-name="Kino Barrandov" group-title="(no name)" dvb-reference="4097:0:1:CDF9:6F19:EC:0:0:0:0", Kino Barrandov
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Um_Ba92JNVQB5KgkNLxDa7/ts
+#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-name="Krimi Barandov FHD" group-title="(no name)" dvb-reference="4097:0:1:C000:3935:EC:0:0:0:0", Krimi Barandov FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WcyBorJeosgzP9WaoTKKSS/ts
+#EXTINF:-1 tvg-id="Seznam.cz.TV.cz" tvg-name="TV Seznam" group-title="(no name)" dvb-reference="4097:0:1:63C9:3F1A:EC:0:0:0:0", TV Seznam
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VEbEBYVfhDfZTLmx-xLoEd/ts
+#EXTINF:-1 tvg-id="Fishing.and.Hunting.sk" tvg-name="Fishing & Hunting" group-title="(no name)" dvb-reference="4097:0:1:3E83:6C97:EC:0:0:0:0", Fishing & Hunting
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UJ3c18ebHtTzMSnf6P2PjQ/ts
+#EXTINF:-1 tvg-id="Love.Nature.HD.sk" tvg-name="Love Nature 4K" group-title="(no name)" dvb-reference="4097:0:1:2E6A:E9B6:EC:0:0:0:0", Love Nature 4K
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UImGA5eYWp8RcN5SE2iwBj/ts
+#EXTINF:-1 tvg-logo="logos/Viasat Nature.png" tvg-id="Viasat.Nature.HD.sk" tvg-name="Viasat Nature" group-title="(no name)" dvb-reference="4097:0:1:2D8:D954:EC:0:0:0:0", Viasat Nature
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V2_fMHcsNAzinNfNU0OBFi/ts
+#EXTINF:-1 tvg-logo="logos/Viasat Explore.png" tvg-id="Viasat.Explore.HD.sk" tvg-name="Viasat Explore" group-title="(no name)" dvb-reference="4097:0:1:A8E1:9964:EC:0:0:0:0", Viasat Explore
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U5hhDrt3Q4glryheCd1F06/ts
+#EXTINF:-1 tvg-logo="logos/National Geographic.png" tvg-id="National.Geographic.Wild.cz" tvg-name="National Geographic Wild" group-title="(no name)" dvb-reference="4097:0:1:50C0:2B09:EC:0:0:0:0", National Geographic Wild
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XCJxEzHlkcYufy9hOnpeXl/ts
+#EXTINF:-1 tvg-logo="logos/history.png" tvg-id="History.HD.sk" tvg-name="History Channel" group-title="(no name)" dvb-reference="4097:0:1:4FC0:DB34:EC:0:0:0:0", History Channel
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UByavUjxjTQ5T7KseB5qV_/ts
+#EXTINF:-1 tvg-logo="logos/spektrum.png" tvg-id="Spektrum.HD.sk" tvg-name="Spektrum" group-title="(no name)" dvb-reference="4097:0:1:3790:2B81:EC:0:0:0:0", Spektrum
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WZpp9VLmuIyGcp2a5fL2GS/ts
+#EXTINF:-1 tvg-logo="logos/prima.png" tvg-id="Prima.ZOOM.cz" tvg-name="Prima Zoom FHD" group-title="(no name)" dvb-reference="4097:0:1:C9CD:7CC5:EC:0:0:0:0", Prima Zoom FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WZXW3Jy35C_YKGKtm-pj2j/ts
+#EXTINF:-1 tvg-id="Animal.Planet.HD.sk" tvg-name="Animal Planet" group-title="(no name)" dvb-reference="4097:0:1:21B4:887A:EC:0:0:0:0", Animal Planet
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WveWPfZuR6OZhTQmi8eZgw/ts
+#EXTINF:-1 tvg-logo="logos/Park TV.png" tvg-id="Park.TV.cz" tvg-name="Park TV" group-title="(no name)" dvb-reference="4097:0:1:E85:E95E:EC:0:0:0:0", Park TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xh_ZYnnk7ZZaG8Q8InEMmJ/ts
+#EXTINF:-1 tvg-logo="logos/JOJ Svet FHD.png" tvg-id="JOJ.Svet.HD.sk" tvg-name="Joj svet FHD" group-title="(no name)" dvb-reference="4097:0:1:ACB6:50D6:EC:0:0:0:0", Joj svet FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X0wsifsVtpTNZWX9jytclI/ts
+#EXTINF:-1 tvg-logo="logos/National Geographic.png" tvg-id="NGC.HD.sk" tvg-name="National Geographic" group-title="(no name)" dvb-reference="4097:0:1:C637:C5A4:EC:0:0:0:0", National Geographic
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VM2WSB5RjDn1TDWxgdcUYK/ts
+#EXTINF:-1 tvg-id="Mňau.TV.cz" tvg-name="Mňau TV" group-title="(no name)" dvb-reference="4097:0:1:F88D:9C5:EC:0:0:0:0", Mňau TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WSVo6rC14hdu93t9YSpZ4m/ts
+#EXTINF:-1 tvg-logo="logos/spektrum.png" tvg-id="Spektrum.Home.HD.sk" tvg-name="Spektrum Home" group-title="(no name)" dvb-reference="4097:0:1:8CFF:AA1C:EC:0:0:0:0", Spektrum Home
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Veel-IYH1b-Tt23qVSOq5v/ts
+#EXTINF:-1 tvg-logo="logos/Warner TV.png" tvg-id="Warner.TV.cz" tvg-name="Warner TV" group-title="(no name)" dvb-reference="4097:0:1:71B:2D32:EC:0:0:0:0", Warner TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Uyx3p1e7UpJOhoNJU7pPBF/ts
+#EXTINF:-1 tvg-logo="logos/Viasat History.png" tvg-id="Viasat.History.HD.sk" tvg-name="Viasat History" group-title="(no name)" dvb-reference="4097:0:1:DB4:8324:EC:0:0:0:0", Viasat History
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WTznI66HI2DMlxk3BuE4rk/ts
+#EXTINF:-1 tvg-id="CS.History.cz" tvg-name="CS History" group-title="(no name)" dvb-reference="4097:0:1:AC3:22DB:EC:0:0:0:0", CS History
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UJBa-L0r5OFu6BakVrXJpk/ts
+#EXTINF:-1 tvg-id="BBC.Earth.CZ.cz" tvg-name="BBC Earth CZ" group-title="(no name)" dvb-reference="4097:0:1:E76A:4DC2:EC:0:0:0:0", BBC Earth CZ
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X-Ij5EI3c92KApoCRpZKMA/ts
+#EXTINF:-1 tvg-id="Travel.Channel.HD.sk" tvg-name="Travel Channel" group-title="(no name)" dvb-reference="4097:0:1:5294:2A79:EC:0:0:0:0", Travel Channel
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XBBcTO_CY7uGN5sSMZPQGJ/ts
+#EXTINF:-1 tvg-logo="logos/travelxp.png" tvg-id="Travelxp.4K.cz" tvg-name="TravelXP 4K" group-title="(no name)" dvb-reference="4097:0:1:2A76:F0DA:EC:0:0:0:0", TravelXP 4K
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UBFoUJg5fcabiSH_du1dbE/ts
+#EXTINF:-1 tvg-logo="logos/travelxp.png" tvg-id="Travel.XP.HD.sk" tvg-name="TravelXP" group-title="(no name)" dvb-reference="4097:0:1:D296:B1BC:EC:0:0:0:0", TravelXP
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XbLQFL-28CyL4W4tP3UWAR/ts
+#EXTINF:-1 tvg-logo="logos/discovery.png" tvg-id="Discovery.Channel.cz" tvg-name="Discovery Channel" group-title="(no name)" dvb-reference="4097:0:1:907:C8EA:EC:0:0:0:0", Discovery Channel
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WcIztJSq0mOq6x3uROJICH/ts
+#EXTINF:-1 tvg-logo="logos/discovery.png" tvg-name="Discovery: TLC" group-title="(no name)" dvb-reference="4097:0:1:C484:2C6D:EC:0:0:0:0", Discovery: TLC
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UBRVrgCFBFXbRK0EW0BKGx/ts
+#EXTINF:-1 tvg-name="Investigation Discovery" group-title="(no name)" dvb-reference="4097:0:1:5C66:87DB:EC:0:0:0:0", Investigation Discovery
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XAE2LcXlHY0qvdpc-o3h03/ts
+#EXTINF:-1 tvg-logo="logos/Viasat True Crime.png" tvg-id="Viasat.True.Crime.HD.sk" tvg-name="Viasat True Crime" group-title="(no name)" dvb-reference="4097:0:1:DCB0:6237:EC:0:0:0:0", Viasat True Crime
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UbiCOXAF1OHtdwUeKKQ_7w/ts
+#EXTINF:-1 tvg-id="Crime.and.Investigation.cz" tvg-name="Crime and Investigation" group-title="(no name)" dvb-reference="4097:0:1:7A18:1262:EC:0:0:0:0", Crime and Investigation
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V1xA6on1rgLK5GQWcxFjCa/ts
+#EXTINF:-1 tvg-id="Epic.Drama.HD.sk" tvg-name="Epic Drama HD" group-title="(no name)" dvb-reference="4097:0:1:E94D:88FE:EC:0:0:0:0", Epic Drama HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Vf98pNAKrjJ_ozTQd3qwU1/ts
+#EXTINF:-1 tvg-id="Film.Europe.HD.sk" tvg-name="Film Europe" group-title="(no name)" dvb-reference="4097:0:1:E8FE:D4C3:EC:0:0:0:0", Film Europe
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UOLFdkCLrHoamsQdAlxYDM/ts
+#EXTINF:-1 tvg-id="Film.Europe.+.sk" tvg-name="Film Europe +" group-title="(no name)" dvb-reference="4097:0:1:7EC7:E807:EC:0:0:0:0", Film Europe +
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XvR6ngB74WOxhEGsQFigO7/ts
+#EXTINF:-1 tvg-logo="logos/BBC First.png" tvg-id="BBC.First.cz" tvg-name="BBC First" group-title="(no name)" dvb-reference="4097:0:1:94F:29BA:EC:0:0:0:0", BBC First
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XthXJQ_06OgnXiDufvrkD0/ts
+#EXTINF:-1 tvg-id="Paprika.cz" tvg-name="TV Paprika" group-title="(no name)" dvb-reference="4097:0:1:A6D8:B59E:EC:0:0:0:0", TV Paprika
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XwVG-MIOAV_8F9P8s94Nhj/ts
+#EXTINF:-1 tvg-id="Food.Network.cz" tvg-name="Food Network" group-title="(no name)" dvb-reference="4097:0:1:ACC8:E40A:EC:0:0:0:0", Food Network
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Vwjx4wBDwxFK5LGu3GKcTn/ts
+#EXTINF:-1 tvg-id="KVIFF.TV.cz" tvg-name="KVIFF TV" group-title="(no name)" dvb-reference="4097:0:1:75B2:31F1:EC:0:0:0:0", KVIFF TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xh7qqkOJFFEzIJhjGVxBPH/ts
+#EXTINF:-1 tvg-id="TV.Doktor.cz" tvg-name="TV Doktor  FHD" group-title="(no name)" dvb-reference="4097:0:1:A918:6C11:EC:0:0:0:0", TV Doktor  FHD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UvQdR1xJfpB0Vnbi93UYGA/ts
+#EXTINF:-1 tvg-logo="logos/Skvele TV.png" tvg-name="Skvele TV" group-title="(no name)" dvb-reference="4097:0:1:F8E9:C3AA:EC:0:0:0:0", Skvele TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UjOsYqsWiOX-zM9OYsJ1UJ/ts
+#EXTINF:-1 tvg-logo="logos/HaHa TV.png" tvg-id="HaHa.TV.cz" tvg-name="HaHa TV" group-title="(no name)" dvb-reference="4097:0:1:75FB:A941:EC:0:0:0:0", HaHa TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XU7WECYpNTGomlmGgrsRhW/ts
+#EXTINF:-1 tvg-logo="logos/STORY 4 FHD CZ.png" tvg-id="Story4.(cz).cz" tvg-name="STORY 4 FHD CZ" group-title="(no name)" dvb-reference="4097:0:1:EB6D:71DD:EC:0:0:0:0", STORY 4 FHD CZ
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VH141DrRU5RirvYFBc9tcY/ts
+#EXTINF:-1 tvg-logo="logos/Starmax Comedy CZ.png" tvg-id="Starmax.Comedy.cz" tvg-name="Starmax Comedy CZ" group-title="(no name)" dvb-reference="4097:0:1:20A:62FD:EC:0:0:0:0", Starmax Comedy CZ
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VplW38GdKFHR48OH3luNlQ/ts
+#EXTINF:-1 tvg-logo="logos/Starmax CZ-SK.png" tvg-name="Starmax CZ-SK" group-title="(no name)" dvb-reference="4097:0:1:4764:7322:EC:0:0:0:0", Starmax CZ-SK
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UAupLI3vv6CJryPdLBMHUB/ts
+#EXTINF:-1 tvg-logo="logos/Starmax FAMILY  CZ.png" tvg-id="Starmax.Family.cz" tvg-name="Starmax FAMILY  CZ" group-title="(no name)" dvb-reference="4097:0:1:32F3:202B:EC:0:0:0:0", Starmax FAMILY  CZ
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VtKMWmzs9wBHKildvVuM3P/ts
+#EXTINF:-1 tvg-id="Cartoon.Network.cz" tvg-name="Cartoon Network" group-title="(no name)" dvb-reference="4097:0:1:30CC:221F:EC:0:0:0:0", Cartoon Network
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VUyR0yL0HAY_yhRKtM1l0x/ts
+#EXTINF:-1 tvg-logo="logos/Cartoonito.png" tvg-id="Cartoonito.cz" tvg-name="Cartoonito" group-title="(no name)" dvb-reference="4097:0:1:82B3:7E03:EC:0:0:0:0", Cartoonito
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WEsXJn_-8HMRr9JtylFMwf/ts
+#EXTINF:-1 tvg-id="Disney.Channel.sk" tvg-name="Disney Channel" group-title="(no name)" dvb-reference="4097:0:1:6DEF:D5A7:EC:0:0:0:0", Disney Channel
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WxRG3gnI1AKzxQLW-0TYtt/ts
+#EXTINF:-1 tvg-id="Duck.TV.HD.sk" tvg-name="Duck TV" group-title="(no name)" dvb-reference="4097:0:1:DAB1:6E8D:EC:0:0:0:0", Duck TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U79Ds0Rv8iCZY9mASotPOW/ts
+#EXTINF:-1 tvg-logo="logos/DuckTV Plus.png" tvg-id="ducktv.plus.cz" tvg-name="DuckTV Plus" group-title="(no name)" dvb-reference="4097:0:1:B62C:35AC:EC:0:0:0:0", DuckTV Plus
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WCwD0TvKq0wumBZisIVdpd/ts
+#EXTINF:-1 tvg-logo="logos/jimjam.png" tvg-id="Jim.Jam.sk" tvg-name="JimJam" group-title="(no name)" dvb-reference="4097:0:1:45A1:AB77:EC:0:0:0:0", JimJam
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XSWii-Uevcu_Pp6_dtZyjX/ts
+#EXTINF:-1 tvg-logo="logos/jojko.png" tvg-id="Jojko.cz" tvg-name="Jojko" group-title="(no name)" dvb-reference="4097:0:1:D634:A926:EC:0:0:0:0", Jojko
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VGeBxNd2ROykIXOpBkldKL/ts
+#EXTINF:-1 tvg-id="Lala.TV.cz" tvg-name="LALA TV" group-title="(no name)" dvb-reference="4097:0:1:9370:7A2F:EC:0:0:0:0", LALA TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VEUyJ5cYri_Txu_zrTKJHg/ts
+#EXTINF:-1 tvg-logo="logos/LangLab.png" tvg-id="LangLab.cz" tvg-name="LangLab" group-title="(no name)" dvb-reference="4097:0:1:508:942:EC:0:0:0:0", LangLab
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UQxKaPFLNPE1-6mKWdDN2E/ts
+#EXTINF:-1 tvg-logo="logos/LingoToons.png" tvg-id="LingoToons.cz" tvg-name="LingoToons" group-title="(no name)" dvb-reference="4097:0:1:C418:184:EC:0:0:0:0", LingoToons
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XkI4955tA-jC94469VpHJ5/ts
+#EXTINF:-1 tvg-logo="logos/minimax.png" tvg-id="Minimax.sk" tvg-name="Minimax" group-title="(no name)" dvb-reference="4097:0:1:D8A1:1D5B:EC:0:0:0:0", Minimax
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V8m97t7JjkVA5lWbIf4BSr/ts
+#EXTINF:-1 tvg-logo="logos/Moonbug.png" tvg-name="Moonbug" group-title="(no name)" dvb-reference="4097:0:1:CE7B:6BA8:EC:0:0:0:0", Moonbug
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WNqiTapOiQh9OnZikUFkpX/ts
+#EXTINF:-1 tvg-id="Nick.Jr..cz" tvg-name="Nick Jr." group-title="(no name)" dvb-reference="4097:0:1:46D6:310A:EC:0:0:0:0", Nick Jr.
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W__MKWScGLay0OqT1adV0n/ts
+#EXTINF:-1 tvg-logo="logos/nickelodeon.png" tvg-id="Nickelodeon.sk" tvg-name="Nickelodeon" group-title="(no name)" dvb-reference="4097:0:1:1B34:2DD2:EC:0:0:0:0", Nickelodeon
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X4rHKGdsoWm9oMIv4i9Wmk/ts
+#EXTINF:-1 tvg-logo="logos/nicktoons.png" tvg-id="Nick.Toons.sk" tvg-name="Nicktoons" group-title="(no name)" dvb-reference="4097:0:1:85A8:63DC:EC:0:0:0:0", Nicktoons
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UrvrY34JBE7yUqR6mCvpJS/ts
+#EXTINF:-1 tvg-logo="logos/Rik TV.png" tvg-id="Rik.TV.cz" tvg-name="Rik TV" group-title="(no name)" dvb-reference="4097:0:1:8B8A:4F0E:EC:0:0:0:0", Rik TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xr7Ucap5bUKmmaAKG5bFFw/ts
+#EXTINF:-1 tvg-logo="logos/Turbo TV.png" tvg-id="Turbo.TV.cz" tvg-name="Turbo TV" group-title="(no name)" dvb-reference="4097:0:1:933C:B678:EC:0:0:0:0", Turbo TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VIXoRDWhgCrn7rMU0chhHR/ts
+#EXTINF:-1 tvg-logo="logos/360tunebox.png" tvg-id="360TuneBox.cz" tvg-name="360TuneBox" group-title="(no name)" dvb-reference="4097:0:1:EFFA:B12D:EC:0:0:0:0", 360TuneBox
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WyWwG3oh5GhLS5UUdITKds/ts
+#EXTINF:-1 tvg-logo="logos/Chill AF Downtempo.png" tvg-name="Chill AF Downtempo" group-title="(no name)" dvb-reference="4097:0:1:BB26:9D9E:EC:0:0:0:0", Chill AF Downtempo
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XBEgmcUhxOZ7ejWFGAIp_H/ts
+#EXTINF:-1 tvg-logo="logos/Dance TV Live.png" tvg-name="Dance TV Live" group-title="(no name)" dvb-reference="4097:0:1:B742:3301:EC:0:0:0:0", Dance TV Live
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UIec6sOWq8NrtU5ZRIALnL/ts
+#EXTINF:-1 tvg-logo="logos/DeeJay TV.png" tvg-name="DeeJay TV" group-title="(no name)" dvb-reference="4097:0:1:3EB5:3C9B:EC:0:0:0:0", DeeJay TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V5QCVfjOTxy3en5LBMFNVC/ts
+#EXTINF:-1 tvg-logo="logos/DELUXE MUSIC.png" tvg-name="DELUXE MUSIC" group-title="(no name)" dvb-reference="4097:0:1:AC78:CC3A:EC:0:0:0:0", DELUXE MUSIC
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WaxfjVE2WM-phdeb9ekT7h/ts
+#EXTINF:-1 tvg-logo="logos/DELUXE MUSIC DANCE BY KONTOR.png" tvg-name="DELUXE MUSIC DANCE BY KONTOR" group-title="(no name)" dvb-reference="4097:0:1:FBB:6E64:EC:0:0:0:0", DELUXE MUSIC DANCE BY KONTOR
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W9s36dT3roaV1GNyXp8k1U/ts
+#EXTINF:-1 tvg-id="Mňam.TV.cz" tvg-name="TV Mňam" group-title="(no name)" dvb-reference="4097:0:1:F1B4:803D:EC:0:0:0:0", TV Mňam
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WBh6ueVUCxchQ8LW93rufA/ts
+#EXTINF:-1 tvg-logo="logos/Eska TV PL.png" tvg-name="Eska TV PL" group-title="(no name)" dvb-reference="4097:0:1:EFE4:FEF2:EC:0:0:0:0", Eska TV PL
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V3arEFbQJ7-j23qXwARryH/ts
+#EXTINF:-1 tvg-logo="logos/iconcerts.png" tvg-id="iConcerts.cz" tvg-name="iConcerts" group-title="(no name)" dvb-reference="4097:0:1:A9D:54B3:EC:0:0:0:0", iConcerts
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VAPehbhrh4lYbPaNWXgVkj/ts
+#EXTINF:-1 tvg-logo="logos/M2O.png" tvg-name="M2O" group-title="(no name)" dvb-reference="4097:0:1:C7AF:DAFE:EC:0:0:0:0", M2O
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VI1q3HCQSjqQQuYCT71XWu/ts
+#EXTINF:-1 tvg-logo="logos/Mainstage EDM.png" tvg-name="Mainstage EDM" group-title="(no name)" dvb-reference="4097:0:1:E630:6E6B:EC:0:0:0:0", Mainstage EDM
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V-eIiC6eXFYCpW58MZHY2r/ts
+#EXTINF:-1 tvg-logo="logos/Melodic Tech.png" tvg-name="Melodic Tech" group-title="(no name)" dvb-reference="4097:0:1:AE10:817E:EC:0:0:0:0", Melodic Tech
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VpGhBiDdUtrdVsIi6TlUSG/ts
+#EXTINF:-1 tvg-logo="logos/mezzo.png" tvg-id="Mezzo.cz" tvg-name="Mezzo" group-title="(no name)" dvb-reference="4097:0:1:7B74:3CA8:EC:0:0:0:0", Mezzo
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WVAiZxDpfaC-NCSzCdMaCa/ts
+#EXTINF:-1 tvg-logo="logos/MiNiMal.png" tvg-name="MiNiMal" group-title="(no name)" dvb-reference="4097:0:1:F51A:19FE:EC:0:0:0:0", MiNiMal
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W3XiQd86kXp39fORPREzhv/ts
+#EXTINF:-1 tvg-logo="logos/Music Box Classic.png" tvg-name="Music Box Classic" group-title="(no name)" dvb-reference="4097:0:1:D3AC:2FCB:EC:0:0:0:0", Music Box Classic
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xe6sQjTGVbDBEqVVatBEzX/ts
+#EXTINF:-1 tvg-logo="logos/Music Box Dance.png" tvg-name="Music Box Dance" group-title="(no name)" dvb-reference="4097:0:1:98B2:B1E:EC:0:0:0:0", Music Box Dance
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UU15H0uj7uiQ_NPVYtN94a/ts
+#EXTINF:-1 tvg-logo="logos/Music Box Hits.png" tvg-name="Music Box Hits" group-title="(no name)" dvb-reference="4097:0:1:6FA0:EC39:EC:0:0:0:0", Music Box Hits
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W1ZzTb77m8gu6a9bifZlAs/ts
+#EXTINF:-1 tvg-logo="logos/Music Box Sexy.png" tvg-name="Music Box Sexy" group-title="(no name)" dvb-reference="4097:0:1:9582:87AD:EC:0:0:0:0", Music Box Sexy
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XK--jFAp4xa7x8Ukezi26x/ts
+#EXTINF:-1 tvg-logo="logos/Music Hits.png" tvg-name="Music Hits" group-title="(no name)" dvb-reference="4097:0:1:F02A:8C19:EC:0:0:0:0", Music Hits
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VK_hV8zumU_aDiAu6Jl9dU/ts
+#EXTINF:-1 tvg-logo="logos/Music live.png" tvg-name="Music live" group-title="(no name)" dvb-reference="4097:0:1:CCA:6D63:EC:0:0:0:0", Music live
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UrEgFf0uFQenRK9HgroDY8/ts
+#EXTINF:-1 tvg-logo="logos/NRG 91.png" tvg-name="NRG 91" group-title="(no name)" dvb-reference="4097:0:1:7A97:E4D2:EC:0:0:0:0", NRG 91
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X9Md2cnRRtpkUJhYP_4V6f/ts
+#EXTINF:-1 tvg-logo="logos/Nuta Gold HD.png" tvg-name="Nuta Gold HD" group-title="(no name)" dvb-reference="4097:0:1:486A:3CBA:EC:0:0:0:0", Nuta Gold HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XN7qgeyy2fAje-pRe251an/ts
+#EXTINF:-1 tvg-logo="logos/Nuta TV HD.png" tvg-name="Nuta TV HD" group-title="(no name)" dvb-reference="4097:0:1:671C:3F2D:EC:0:0:0:0", Nuta TV HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U0fgebMhCSC3vjKGCWxh2H/ts
+#EXTINF:-1 tvg-logo="logos/Pop World.png" tvg-name="Pop World" group-title="(no name)" dvb-reference="4097:0:1:A50D:EA89:EC:0:0:0:0", Pop World
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UpCabCkn21b7PZYv-Rl6E0/ts
+#EXTINF:-1 tvg-logo="logos/Premium.png" tvg-name="Premium" group-title="(no name)" dvb-reference="4097:0:1:EB72:FD17:EC:0:0:0:0", Premium
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VQrZaPuKUwbmExGUnbk7tH/ts
+#EXTINF:-1 tvg-logo="logos/rebel.png" tvg-name="Rebel" group-title="(no name)" dvb-reference="4097:0:1:579E:52E7:EC:0:0:0:0", Rebel
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VyFuAeQcfxlSpMoJNKv3Oz/ts
+#EXTINF:-1 tvg-name="Retro Music TV" group-title="(no name)" dvb-reference="4097:0:1:8B3C:1299:EC:0:0:0:0", Retro Music TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U-ZQ8dhbjr7LrbptGW8RaQ/ts
+#EXTINF:-1 tvg-logo="logos/Senzi TV HD.png" tvg-name="Senzi TV HD" group-title="(no name)" dvb-reference="4097:0:1:7710:AB38:EC:0:0:0:0", Senzi TV HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UhIk30mN7ePxJslj8cdINA/ts
+#EXTINF:-1 tvg-logo="logos/Tech house Terrace.png" tvg-name="Tech house Terrace" group-title="(no name)" dvb-reference="4097:0:1:4262:9B3E:EC:0:0:0:0", Tech house Terrace
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WD8Oarz9ZHbd64pwUcjmdm/ts
+#EXTINF:-1 tvg-logo="logos/Techno Warehouse.png" tvg-name="Techno Warehouse" group-title="(no name)" dvb-reference="4097:0:1:C69:835C:EC:0:0:0:0", Techno Warehouse
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WFmAmK3MTadmaSYw_DXSpf/ts
+#EXTINF:-1 tvg-logo="logos/XPTV 1.png" tvg-name="XPTV 1" group-title="(no name)" dvb-reference="4097:0:1:5CEE:F268:EC:0:0:0:0", XPTV 1
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UWhnLPNdnjosAVBO6HiLU-/ts
+#EXTINF:-1 tvg-name="Óčko" group-title="(no name)" dvb-reference="4097:0:1:B217:731B:EC:0:0:0:0", Óčko
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XKrx26NeMmW4cVjV42Qw06/ts
+#EXTINF:-1 tvg-name="Óčko Black" group-title="(no name)" dvb-reference="4097:0:1:7DA5:40B9:EC:0:0:0:0", Óčko Black
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Xu-1D9qB9PcVSROE5xd6t7/ts
+#EXTINF:-1 tvg-name="Óčko Expres" group-title="(no name)" dvb-reference="4097:0:1:A61E:11D4:EC:0:0:0:0", Óčko Expres
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VYIv4Cyb5rc22CiAST4wjH/ts
+#EXTINF:-1 tvg-logo="logos/VEVO Retro Rock.png" tvg-name="VEVO Retro Rock" group-title="(no name)" dvb-reference="4097:0:1:2947:5A2D:EC:0:0:0:0", VEVO Retro Rock
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U-xxrm_zdnf-7HuOlv-bO0/ts
+#EXTINF:-1 tvg-logo="logos/Music 00s.png" tvg-name="Music 00s" group-title="(no name)" dvb-reference="4097:0:1:EB90:146:EC:0:0:0:0", Music 00s
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WniezjAdzyHxwZFjJzz5xr/ts
+#EXTINF:-1 tvg-logo="logos/Music 90s.png" tvg-name="Music 90s" group-title="(no name)" dvb-reference="4097:0:1:8750:3A66:EC:0:0:0:0", Music 90s
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WK_MnzW7sTz9hl6bOeV014/ts
+#EXTINF:-1 tvg-logo="logos/Dance Hits 80.png" tvg-name="Dance Hits 80" group-title="(no name)" dvb-reference="4097:0:1:6C08:8AAE:EC:0:0:0:0", Dance Hits 80
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WJeSLYIlHlLlMz5RT8u1cI/ts
+#EXTINF:-1 tvg-logo="logos/MTV 80s.png" tvg-name="MTV 80s" group-title="(no name)" dvb-reference="4097:0:1:75E5:8DFF:EC:0:0:0:0", MTV 80s
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X5JX-LIPQiyKaVR4Ssk4YL/ts
+#EXTINF:-1 tvg-logo="logos/MTV 90s.png" tvg-name="MTV 90s" group-title="(no name)" dvb-reference="4097:0:1:28DF:E67C:EC:0:0:0:0", MTV 90s
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UTi9jOOfUzRAJ9hlpdrRbQ/ts
+#EXTINF:-1 tvg-logo="logos/MTV Club.png" tvg-name="MTV Club" group-title="(no name)" dvb-reference="4097:0:1:B77F:F0B7:EC:0:0:0:0", MTV Club
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UmPFdHrNCc8Inc4WnBXHMb/ts
+#EXTINF:-1 tvg-logo="logos/mtv.png" tvg-name="MTV Hits" group-title="(no name)" dvb-reference="4097:0:1:1372:55A5:EC:0:0:0:0", MTV Hits
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WBvZkGBwqlJolwngJVbTc7/ts
+#EXTINF:-1 tvg-logo="logos/VIVA Russia.png" tvg-name="VIVA Russia" group-title="(no name)" dvb-reference="4097:0:1:445B:7A43:EC:0:0:0:0", VIVA Russia
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VE9zqX4zyZHuHmd-wVouXX/ts
+#EXTINF:-1 tvg-logo="logos/Babes TV.png" tvg-name="Babes TV" group-title="(no name)" dvb-reference="4097:0:1:E1FB:29AF:EC:0:0:0:0", Babes TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X9FXrVLy96K_qlaCK548Cu/ts
+#EXTINF:-1 tvg-logo="logos/Brazzers TV Europe.png" tvg-name="Brazzers TV Europe" group-title="(no name)" dvb-reference="4097:0:1:382A:998D:EC:0:0:0:0", Brazzers TV Europe
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UbsvO86x6j8kxWwLLpr42d/ts
+#EXTINF:-1 tvg-logo="logos/TV Piánko.png" tvg-name="TV Piánko" group-title="(no name)" dvb-reference="4097:0:1:57BC:526D:EC:0:0:0:0", TV Piánko
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VGScvRkHT2gDa2n8IMCZ_h/ts
+#EXTINF:-1 tvg-logo="logos/Erox.png" tvg-name="Erox" group-title="(no name)" dvb-reference="4097:0:1:98C2:2882:EC:0:0:0:0", Erox
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UxClzReFsUFVQ9TlrVMDPA/ts
+#EXTINF:-1 tvg-logo="logos/EROXXX HD.png" tvg-name="EROXXX HD" group-title="(no name)" dvb-reference="4097:0:1:B61:7965:EC:0:0:0:0", EROXXX HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UjEnsKhlw5LOFfioRSvpck/ts
+#EXTINF:-1 tvg-logo="logos/Leo TV Gold.png" tvg-name="Leo TV" group-title="(no name)" dvb-reference="4097:0:1:C104:71E1:EC:0:0:0:0", Leo TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VTHozLOGLcNwHkbxEKLl53/ts
+#EXTINF:-1 tvg-logo="logos/Reality Kings.png" tvg-name="Reality Kings" group-title="(no name)" dvb-reference="4097:0:1:B432:6928:EC:0:0:0:0", Reality Kings
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WGRljDIMzYmYXkkceZTVxf/ts
+#EXTINF:-1 tvg-logo="logos/Dusk!.png" tvg-name="Dusk!" group-title="(no name)" dvb-reference="4097:0:1:767B:E1E9:EC:0:0:0:0", Dusk!
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3ULr7pkIwNiS2z2F6t9xZVF/ts
+#EXTINF:-1 tvg-logo="logos/Passion XXX.png" tvg-name="Passion XXX" group-title="(no name)" dvb-reference="4097:0:1:A47B:B936:EC:0:0:0:0", Passion XXX
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W7nr1RzC6aflq_CZ5BuNAd/ts
+#EXTINF:-1 tvg-logo="logos/Dorcel TV.png" tvg-name="Dorcel TV" group-title="(no name)" dvb-reference="4097:0:1:9E0:998A:EC:0:0:0:0", Dorcel TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X4o3_c0Clvnoko4XzLlhod/ts
+#EXTINF:-1 tvg-logo="logos/Leo TV Gold.png" tvg-name="Leo TV Gold" group-title="(no name)" dvb-reference="4097:0:1:CF56:E205:EC:0:0:0:0", Leo TV Gold
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WQo_LSwB2HqM5IZil4tLl1/ts
+#EXTINF:-1 tvg-logo="logos/Private TV.png" tvg-name="Private TV" group-title="(no name)" dvb-reference="4097:0:1:128B:5385:EC:0:0:0:0", Private TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U4BaMKr3ddo9ennjYppFg0/ts
+#EXTINF:-1 tvg-logo="logos/True Amateurs.png" tvg-name="True Amateurs" group-title="(no name)" dvb-reference="4097:0:1:5907:6B17:EC:0:0:0:0", True Amateurs
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VCII0BrAtaKP0jIH0FIsaV/ts
+#EXTINF:-1 tvg-logo="logos/Redlight HD.png" tvg-name="Redlight HD" group-title="(no name)" dvb-reference="4097:0:1:9FB:E5A8:EC:0:0:0:0", Redlight HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UqrZMKE78JNlCR0EecesRk/ts
+#EXTINF:-1 tvg-logo="logos/Pure Babes.png" tvg-name="Pure Babes" group-title="(no name)" dvb-reference="4097:0:1:F2BD:6AB3:EC:0:0:0:0", Pure Babes
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U2qN_lKVlVdbkWmi5AcsO7/ts
+#EXTINF:-1 tvg-logo="logos/Playboy TV.png" tvg-name="Playboy TV" group-title="(no name)" dvb-reference="4097:0:1:A375:41DD:EC:0:0:0:0", Playboy TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WMNroIg1Kpb3Syfg5AUMuv/ts
+#EXTINF:-1 tvg-logo="logos/Vivid.png" tvg-name="Vivid" group-title="(no name)" dvb-reference="4097:0:1:7822:8861:EC:0:0:0:0", Vivid
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U4TZXInbVvQ11In7STrKZS/ts
+#EXTINF:-1 tvg-logo="logos/VIXEN.png" tvg-name="VIXEN" group-title="(no name)" dvb-reference="4097:0:1:90DC:149B:EC:0:0:0:0", VIXEN
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XQ-IvX0Mf4u7a53wvnAdqP/ts
+#EXTINF:-1 tvg-logo="logos/Xmo.png" tvg-name="Xmo" group-title="(no name)" dvb-reference="4097:0:1:28CB:FBE4:EC:0:0:0:0", Xmo
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U_vKRqgBpT1Qx8kwughK_2/ts
+#EXTINF:-1 tvg-logo="logos/MEN. TV.png" tvg-name="MEN. TV" group-title="(no name)" dvb-reference="4097:0:1:605:718:EC:0:0:0:0", MEN. TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VgwrbKH-ggnc0kWK4Lifdt/ts
+#EXTINF:-1 tvg-logo="logos/Vivid Touch.png" tvg-name="Vivid Touch" group-title="(no name)" dvb-reference="4097:0:1:D49:AD14:EC:0:0:0:0", Vivid Touch
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UlGBOYdhVjiXT9FrdtZ_qu/ts
+#EXTINF:-1 tvg-logo="logos/Red Lips HD.png" tvg-name="Red Lips HD" group-title="(no name)" dvb-reference="4097:0:1:8E25:ADB1:EC:0:0:0:0", Red Lips HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WZRFfrWwJOk6ZXAdH0PYKh/ts
+#EXTINF:-1 tvg-logo="logos/Vivid Red.png" tvg-name="Vivid Red" group-title="(no name)" dvb-reference="4097:0:1:839E:B4E6:EC:0:0:0:0", Vivid Red
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VV8-GOxiV_vBK830jObFPE/ts
+#EXTINF:-1 tvg-logo="logos/Penthouse Gold HD.png" tvg-name="Penthouse Gold HD" group-title="(no name)" dvb-reference="4097:0:1:AAAA:DA8D:EC:0:0:0:0", Penthouse Gold HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3Vrz1DZAPOrn9-UwX9Kmh_9/ts
+#EXTINF:-1 tvg-logo="logos/Barely Legal TV.png" tvg-name="Barely Legal TV" group-title="(no name)" dvb-reference="4097:0:1:75CE:3027:EC:0:0:0:0", Barely Legal TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XMhZ2UB-oXtfv1wMRkmcLN/ts
+#EXTINF:-1 tvg-logo="logos/Sex Factor TV.png" tvg-name="Sex Factor TV" group-title="(no name)" dvb-reference="4097:0:1:24DF:2636:EC:0:0:0:0", Sex Factor TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3U07S-LAe5g2xKW6PdziJiM/ts
+#EXTINF:-1 tvg-logo="logos/XY Plus HD.png" tvg-name="XY Plus HD" group-title="(no name)" dvb-reference="4097:0:1:AE95:6C34:EC:0:0:0:0", XY Plus HD
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3V-n6FiDdX20XZWwUjSoKk0/ts
+#EXTINF:-1 tvg-logo="logos/Blue Hustler TV.png" tvg-name="Blue Hustler TV" group-title="(no name)" dvb-reference="4097:0:1:E673:624F:EC:0:0:0:0", Blue Hustler TV
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3ViEjMABRiktGXx48xJ3kli/ts
+#EXTINF:-1 tvg-logo="logos/Hustler HD Europe.png" tvg-name="Hustler HD Europe" group-title="(no name)" dvb-reference="4097:0:1:1D3B:45DD:EC:0:0:0:0", Hustler HD Europe
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UYUsWJFVtmoVmsrinV1KKW/ts
+#EXTINF:-1 tvg-logo="logos/Exxxotica.png" tvg-name="Exxxotica" group-title="(no name)" dvb-reference="4097:0:1:11AC:F059:EC:0:0:0:0", Exxxotica
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3WnDll3V6wNJfpqH-TNZimO/ts
+#EXTINF:-1 tvg-logo="logos/Adult 1.png" tvg-name="Adult 1" group-title="(no name)" dvb-reference="4097:0:1:B11B:CD35:EC:0:0:0:0", Adult 1
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XcTkh5hqQewCEjV4IrTvQ1/ts
+#EXTINF:-1 tvg-logo="logos/Adult 2.png" tvg-name="Adult 2" group-title="(no name)" dvb-reference="4097:0:1:F932:184E:EC:0:0:0:0", Adult 2
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3VOq_HueHqY2WQYl2qkfYkE/ts
+#EXTINF:-1 tvg-logo="logos/Rádio Vlna.png" tvg-name="Rádio Vlna" group-title="(no name)" dvb-reference="4097:0:1:AF7:1698:EC:0:0:0:0", Rádio Vlna
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XzYasDB81wefc-5hClUibi/ts
+#EXTINF:-1 tvg-logo="logos/Rádio Vlna.png" tvg-name="Rádio Vlna" group-title="(no name)" dvb-reference="4097:0:1:27FE:C7BE:EC:0:0:0:0", Rádio Vlna
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3X9xx029pD4SLoFaMjxfcn6/ts
+#EXTINF:-1 tvg-logo="logos/Rádio Melody.png" tvg-name="Rádio Melody" group-title="(no name)" dvb-reference="4097:0:1:C8CD:529C:EC:0:0:0:0", Rádio Melody
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UKyRdQklKkYR06KArfovJH/ts
+#EXTINF:-1 tvg-logo="logos/Rádio Expres.png" tvg-name="Rádio Expres" group-title="(no name)" dvb-reference="4097:0:1:3C58:8158:EC:0:0:0:0", Rádio Expres
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3XBkDq2gGdgmeE_15j9fa5a/ts
+#EXTINF:-1 tvg-logo="logos/Fun Rádio 80 - 90s.png" tvg-name="Fun Rádio 80 - 90s" group-title="(no name)" dvb-reference="4097:0:1:DB7:CA3F:EC:0:0:0:0", Fun Rádio 80 - 90s
+https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3UAcuQ03pR_pmhc_-z7PWh9/ts
