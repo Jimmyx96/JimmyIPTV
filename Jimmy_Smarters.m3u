@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://jimmyx96.github.io/JimmyIPTV/epg_smarters.xml" x-tvg-url="https://jimmyx96.github.io/JimmyIPTV/epg_smarters.xml" tvg-url="https://jimmyx96.github.io/JimmyIPTV/epg_smarters.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jimmyx96/JimmyIPTV/refs/heads/main/epg_smarters.xml" x-tvg-url="https://raw.githubusercontent.com/jimmyx96/JimmyIPTV/refs/heads/main/epg_smarters.xml" tvg-url="https://raw.githubusercontent.com/jimmyx96/JimmyIPTV/refs/heads/main/epg_smarters.xml"
 #EXTINF:-1 tvg-logo="logos/hbo.png" tvg-id="HBO.HD.sk" tvg-name="HBO FHD" group-title="(no name)" dvb-reference="4097:0:1:FF1B:9C63:EC:0:0:0:0", HBO FHD
 https://livetvgo.ru:25600/play/p1G-rYbr9vM1JTwO_1cLPDBJFNLZD2sq_xGAgPCcU3W46fmsvCR9HcA6tSWU14HI/ts
 #EXTINF:-1 tvg-logo="logos/hbo.png" tvg-id="HBO2.HD.sk" tvg-name="HBO 2" group-title="(no name)" dvb-reference="4097:0:1:70D8:E274:EC:0:0:0:0", HBO 2
